@@ -1,4 +1,4 @@
-## README (Русский)
+## (Русский)
 
 ### Описание
 Этот скрипт предназначен для удаления всех серверов на указанном узле в Pterodactyl через API. Он запрашивает у пользователя идентификатор узла, URL и ключ API, а затем удаляет все серверы на этом узле.
@@ -16,7 +16,7 @@
 ### Примечания
 - Убедитесь, что перед использованием скрипта вы сохранили все важные файлы.
 
-## README (English)
+## (English)
 
 ### Description
 This script is designed to delete all servers on a specified node in the Pterodactyl via API. It prompts the user for the node ID, URL, and API key, then proceeds to delete all servers on that node.
